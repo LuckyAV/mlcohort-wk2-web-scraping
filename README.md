@@ -8,3 +8,8 @@
 Git/GitHub proficiency and basic ethical web scraping. 
 
 - **Target site:** https://books.toscrape.com/
+- 
+## Tech Stack
+- Python 3.10+
+- requests
+- beautifulsoup4
